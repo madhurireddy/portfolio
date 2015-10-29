@@ -9,6 +9,7 @@ section.bordered, header.bordered, footer.bordered {
   border-style: double;
   margin-right: 230px;
   padding:10px;
+  border-color: #3366FF;
 }
 
 .sketch {
