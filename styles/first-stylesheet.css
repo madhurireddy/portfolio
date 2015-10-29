@@ -3,10 +3,10 @@ body {
   margin-right: 230px;
 }
 
-footer {
-    border: 2px solid;
-    border-radius: 5px;
-    border-style: double;
+section.bordered, header.bordered, footer.bordered {
+  border: 2px solid;
+  border-radius: 5px;
+  border-style: double;
   margin-right: 230px;
   padding:10px;
 }
@@ -16,7 +16,6 @@ footer {
   background-size: 240px 180px;
   margin-right: 230px;
   padding:10px;
-
 }
 
 h1 {
@@ -71,6 +70,12 @@ figcaption {
   text-align: center;
   font-family: "Times New Roman";
   font-weight:bold;
+}
+
+img {
+  width: 304px;
+  height: 228px; 
+  
 }
 
 
