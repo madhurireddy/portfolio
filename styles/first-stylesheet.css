@@ -1,6 +1,7 @@
 body {
   background: #d0e4fe;
   margin-right: 230px;
+  font-family: 'Dancing Script', cursive;
 }
 
 section.bordered, header.bordered, footer.bordered {
