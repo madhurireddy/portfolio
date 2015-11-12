@@ -11,6 +11,17 @@ section.bordered, footer.bordered {
   border-style: double;
   padding:10px;
   border-color: #FF66FF;
+  position: relative;
+  overflow: scroll;
+}
+
+header.bordered {
+  background: #FFCCFF;
+  position: fixed;
+  padding: 0px;
+  width:100%;  
+  z-index: 2;
+  margin: 0px;
 }
 
 .sketch {
@@ -23,7 +34,7 @@ h1 {
   color: black;
   text-align: center;
   font-size:5rem;
-  font-weight:bold;   
+  font-weight:bold;  
 }
 
 p {
