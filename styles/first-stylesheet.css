@@ -1,5 +1,5 @@
 body {
-  background: #FF66FF;
+  background: #CC99FF;
   font-family: 'Shadows Into Light Two', cursive;
   font-weight: bold;
   font-size: 30px;
@@ -16,7 +16,7 @@ section.bordered, footer.bordered {
 }
 
 header.bordered {
-  background: #FFCCFF;
+  background: #FF9999;
   position: fixed;
   padding: 0px;
   width:100%;  
