@@ -68,7 +68,8 @@ figure {
 figcaption {
   color: #FF00FF;
   text-align: center;
-  font-weight:bold;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 img {
