@@ -1,5 +1,5 @@
 body {
-  background: #d0e4fe;
+  background: #FF66FF;
   font-family: 'Shadows Into Light Two', cursive;
   font-weight: bold;
   font-size: 30px;
@@ -10,17 +10,17 @@ section.bordered, footer.bordered {
   border-radius: 5px;
   border-style: double;
   padding:10px;
-  border-color: #FF00FF;
+  border-color: #FF66FF;
 }
 
 .sketch {
-  background: #d0e4fe url("../images/MadsWithCraig.jpg") no-repeat right top;
+  background: #FF66FF url("../images/MadsWithCraig.jpg") no-repeat right top;
   background-size: 240px 180px;
   padding:10px;
 }
 
 h1 {
-  color: orange;
+  color: black;
   text-align: center;
   font-size:5rem;
   font-weight:bold;   
@@ -37,12 +37,12 @@ p::first-letter {
 
 /* unvisited link */
 a:link {
-  color: #FF0000;
+  color: #000000;
 }
 
 /* visited link */
 a:visited {
-  color: #3366FF;
+  color: #FF0000;
 }
 
 /* mouse over link */
@@ -61,12 +61,12 @@ ul  {
 
 figure {
   display: inline-block;
-  border: 1px solid blue;
+  border: 1px solid #FFFFFF;
   margin: 20px;
 }
 
 figcaption {
-  color: #FF00FF;
+  color: #000000;
   text-align: center;
   font-weight: bold;
   font-size: 20px;
