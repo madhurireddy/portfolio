@@ -53,11 +53,19 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: #FF0000;
+  color: #400c01;
 }
 
 /* mouse over link */
+/*
 a:hover {
+  color: #FF00FF;
+}
+*/
+
+a:hover, a:focus {
+  outline:1px solid red;
+  background:yellow;
   color: #FF00FF;
 }
 
